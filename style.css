@@ -35,7 +35,8 @@ input[type=password]{
     border: none;
 }
 label{
-    padding-right: 2.5rem;
+    /* padding-right: 2.5%; */
+    display: inline-block;
 
     
 }
@@ -58,4 +59,7 @@ button:hover{
     border: 6px solid rgb(61, 221, 194);
     border-radius: 5px;
     
+    }
+    .skills{
+        padding-left: 2.5rem;
     }
